@@ -1,6 +1,6 @@
-LOCK TABLES `data_platform_quantity_unit_data` WRITE;
+LOCK TABLES `data_platform_quantity_unit_quantity_unit_data` WRITE;
 
-INSERT INTO `data_platform_quantity_unit_data` (`QuantityUnit`)
+INSERT INTO `data_platform_quantity_unit_quantity_unit_data` (`QuantityUnit`)
 VALUES
 ('ACR');
 ('AU');
@@ -118,9 +118,7 @@ VALUES
 ('MEJ');
 ('MG');
 ('MGL');
-('MGL');
 ('MGO');
-('MGQ');
 ('MGQ');
 ('MHV');
 ('MI');
@@ -201,6 +199,8 @@ VALUES
 ('YD3');
 ('μA');
 ('μF');
+('μGL');
+('μGQ');
 ('μL');
 ('μM');
 ('月');
