@@ -11,9 +11,9 @@ https://api.XXXXXXXX.com/api/OP_API_XXXXXXX_XXX/overview
 data-platform-plant-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。    
 
 * data-platform-quantity-unit-sql-quantity-unit-data.sql（データ連携基盤 数量単位 - 数量単位データ）  
-* data-platform-quantity-unit-sql-quantity-unit-setup.sql（データ連携基盤 数量単位 - 数量単位データ の設定）  
-* data-platform-quantity-unit-sql-text-data.sql（データ連携基盤 数量単位 - テキストデータ）  
-* data-platform-quantity-unit-sql-text-setup.sql（データ連携基盤 数量単位 - テキストデータ の設定）
+* data-platform-quantity-unit-sql-quantity-unit-setup.sql（データ連携基盤 数量単位 - 数量単位データの設定）  
+* data-platform-quantity-unit-sql-quantity-unit-text-data.sql（データ連携基盤 数量単位 - 数量単位テキストデータ）  
+* data-platform-quantity-unit-sql-quantity-unit-text-data-setup.sql（データ連携基盤 数量単位 - 数量単位テキストデータの設定）
 
 ## 設定値
 setupファイルには、各テーブルに対応した設定値が含まれています。  
